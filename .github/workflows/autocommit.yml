@@ -31,7 +31,7 @@ jobs:
           git config --local user.name "SajadRahimi1"
           git add -A
           
-          arr[0]="chore(bot): 😂 auto commit"
+          arr[0]="Sajad 😂 auto commit"
           arr[1]="chore(bot): 😱 auto commit"
           arr[2]="chore(bot): 👿 auto commit"
           arr[3]="chore(bot): 💩 auto commit"
