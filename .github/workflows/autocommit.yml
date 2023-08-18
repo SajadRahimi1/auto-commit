@@ -32,7 +32,7 @@ jobs:
           git add -A
           
           arr[0]="Sajad 😂 auto commit"
-          arr[1]="chore(bot): 😱 auto commit"
+          arr[1]="Sajad 😱 auto commit"
           arr[2]="chore(bot): 👿 auto commit"
           arr[3]="chore(bot): 💩 auto commit"
           arr[4]="chore(bot): 🙏 auto commit"
