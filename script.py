@@ -1,8 +1,10 @@
 import datetime
 import subprocess
 import os
+import time;
 
 while(True):
+    time.sleep(3)
     # Get current date and time
     now = datetime.datetime.now()
     datetime_str = now.strftime("%Y-%m-%d %H:%M:%S")
