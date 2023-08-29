@@ -16,7 +16,7 @@ while(True):
     # Stage and commit changes
     subprocess.run(['git', 'add', '.'])
     subprocess.run(
-        ['git', 'commit', '-m', f'Update at {now.strftime("%Y-%m-%d %H:%M:%S")}'])
+        ['git', 'commit', '-m', f'Update at {datetime_str}'])
 
 
     # Push changes to GitHub
